@@ -1,0 +1,1 @@
+SELECT * FROM fashion_shop.catagories;

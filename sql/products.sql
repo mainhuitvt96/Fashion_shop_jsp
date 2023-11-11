@@ -1,0 +1,4 @@
+SELECT * FROM fashion_shop.products;
+INSERT INTO `fashion_shop`.`products` (`id`, `name`, `image`, `price`, `quantity`, `title`, `description`, `category_id`, `sell_id`, `availability`, `is_delete`) VALUES 
+(1, 'Áo thun cổ tròn', 'product_1.webp', 128000, 1000, 'Áo Thun Tay Ngắn Cổ Tròn Dáng Rộng Thời Trang Hàn Quốc Cho Nữ', 'Giới thiệu cửa hàng: Cửa hàng chủ yếu kinh doanh các loại quần áo thời trang nữ, Phong cách đại học, quần áo phụ nữ cá nhân hóa, sườn xám và váy phong cách cổ điển, Tất cả các sản phẩm đều được làm từ chất liệu vải cao cấp, giá cả hợp lý và chất lượng đảm bảo.', 1, 2, 'Còn hàng', 0);
+SELECT * FROM products;
